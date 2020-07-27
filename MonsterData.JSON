@@ -1,0 +1,36 @@
+{"Monsters":
+[
+    {
+    "Name":"Slime", 
+    "HP":13, 
+    "Armor":5, 
+    "Strength":4, 
+    "Intelligence":5, 
+    "Agility":5
+    },
+    {
+    "Name":"Wolf", 
+    "HP":9, 
+    "Armor":2, 
+    "Strength":6, 
+    "Intelligence":3, 
+    "Agility":10
+    },
+    {
+    "Name":"Wizard", 
+    "HP":11, 
+    "Armor":1, 
+    "Strength":2, 
+    "Intelligence":10, 
+    "Agility":3
+    },
+    {
+    "Name":"Demon", 
+    "HP":25, 
+    "Armor":3, 
+    "Strength":10, 
+    "Intelligence":1, 
+    "Agility":5
+    }
+]
+}

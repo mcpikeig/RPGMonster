@@ -1,0 +1,22 @@
+{"Modifiers":
+[
+    {
+    "Name":"Warrior", 
+    "StrMod":2, 
+    "IntMod":-1, 
+    "AgMod":-1
+    },
+    {
+    "Name":"Arcane", 
+    "StrMod":-1, 
+    "IntMod":2, 
+    "AgMod":-1
+    },
+    {
+    "Name":"Sneaky", 
+    "StrMod":-1, 
+    "IntMod":-1, 
+    "AgMod":2
+    }
+]
+}
